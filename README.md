@@ -1,2 +1,2 @@
-# .github
-Funding and organization profile
+# Cobolt
+Official repositories of Cobolt in Github
